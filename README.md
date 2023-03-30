@@ -1,4 +1,4 @@
-Live Link of the app - chakra-hub-signup-form.netlify.app
+Live Link of the app - https://chakra-hub-signup-form.netlify.app/
 
 # Getting Started with Create React App
 
